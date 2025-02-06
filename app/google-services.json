@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578645725660",
+    "project_id": "formationstagenov",
+    "storage_bucket": "formationstagenov.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578645725660:android:459ecb7544bbb50a1ebf19",
+        "android_client_info": {
+          "package_name": "com.example.formationstagenovembre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCQcUGViXZ7UVlw1XbkzpW0CkyWicNvtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
