@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class SecondActivity extends AppCompatActivity {
+public class SignUpActivity extends AppCompatActivity {
 
     private EditText firstNumber, secondNumber;
     private Button btnSomme;
@@ -18,7 +18,7 @@ public class SecondActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_second);
+        setContentView(R.layout.activity_sign_up);
 
         firstNumber = findViewById(R.id.first_number);
         secondNumber = findViewById(R.id.second_number);
